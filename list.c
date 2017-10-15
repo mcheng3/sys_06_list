@@ -38,5 +38,5 @@ int main(){
 	//printf("%d\n", head->next->i);
 	print_list(head);
 	free_list(head);
-	print_list(head);
+	//print_list(head);
 }
